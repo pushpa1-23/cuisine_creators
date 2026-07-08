@@ -23,6 +23,7 @@ Cuisine Creators is a modern web application designed for food lovers to explore
 * HTML
 * CSS
 * JavaScript
+* java
 * React.js
 
 ### Backend
